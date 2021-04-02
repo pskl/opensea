@@ -1,4 +1,3 @@
 #!/usr/bin/env ruby
 
 require 'opensea'
-puts OpenSea.hi(ARGV[0])

@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.date = %q{2021-03-17}
   s.description = %q{Opensea Api Client}
   s.email = %q{hello@pascal.cc}
-  s.files = ["Rakefile", "lib/opensea.rb", "lib/opensea/translator.rb", "bin/opensea"]
+  s.files = ["Rakefile", "lib/opensea.rb", "lib/opensea/client.rb", "bin/opensea"]
   s.test_files = ["test/test_opensea.rb"]
   s.homepage = %q{http://rubygems.org/gems/opensea}
   s.require_paths = ["lib"]
